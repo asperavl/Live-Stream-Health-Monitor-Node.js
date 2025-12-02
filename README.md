@@ -133,7 +133,7 @@ This project delivers:
 - Understanding of live-stream operational behavior  
 - Strong relevance for Live Ops or Media Engineering roles  
 
-Pairs with **Project 1: RTMP → HLS Pipeline** for a complete live-stream ecosystem.
+Pairs with **RTMP → HLS Pipeline** for a complete live-stream ecosystem.
 
 ---
 
